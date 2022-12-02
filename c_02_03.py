@@ -69,3 +69,6 @@ print(car2.get_price_calc())
 # static 메소드 활용
 # print(car1.is_bmw(car1))
 print(Car.is_bmw(car2))
+
+
+
